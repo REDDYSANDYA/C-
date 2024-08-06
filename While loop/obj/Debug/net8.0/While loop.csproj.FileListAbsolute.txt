@@ -1,0 +1,14 @@
+E:\While loop\bin\Debug\net8.0\While loop.exe
+E:\While loop\bin\Debug\net8.0\While loop.deps.json
+E:\While loop\bin\Debug\net8.0\While loop.runtimeconfig.json
+E:\While loop\bin\Debug\net8.0\While loop.dll
+E:\While loop\bin\Debug\net8.0\While loop.pdb
+E:\While loop\obj\Debug\net8.0\While loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\While loop\obj\Debug\net8.0\While loop.AssemblyInfoInputs.cache
+E:\While loop\obj\Debug\net8.0\While loop.AssemblyInfo.cs
+E:\While loop\obj\Debug\net8.0\While loop.csproj.CoreCompileInputs.cache
+E:\While loop\obj\Debug\net8.0\While loop.dll
+E:\While loop\obj\Debug\net8.0\refint\While loop.dll
+E:\While loop\obj\Debug\net8.0\While loop.pdb
+E:\While loop\obj\Debug\net8.0\While loop.genruntimeconfig.cache
+E:\While loop\obj\Debug\net8.0\ref\While loop.dll
