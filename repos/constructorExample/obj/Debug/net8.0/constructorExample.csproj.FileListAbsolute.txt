@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\constructorExample\bin\Debug\net8.0\constructorExample.exe
+C:\Users\dabba\source\repos\constructorExample\bin\Debug\net8.0\constructorExample.deps.json
+C:\Users\dabba\source\repos\constructorExample\bin\Debug\net8.0\constructorExample.runtimeconfig.json
+C:\Users\dabba\source\repos\constructorExample\bin\Debug\net8.0\constructorExample.dll
+C:\Users\dabba\source\repos\constructorExample\bin\Debug\net8.0\constructorExample.pdb
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.AssemblyInfo.cs
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.dll
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\refint\constructorExample.dll
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.pdb
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\constructorExample.genruntimeconfig.cache
+C:\Users\dabba\source\repos\constructorExample\obj\Debug\net8.0\ref\constructorExample.dll

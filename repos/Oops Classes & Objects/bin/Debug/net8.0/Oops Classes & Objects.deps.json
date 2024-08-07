@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oops Classes & Objects/1.0.0": {
+        "runtime": {
+          "Oops Classes & Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oops Classes & Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

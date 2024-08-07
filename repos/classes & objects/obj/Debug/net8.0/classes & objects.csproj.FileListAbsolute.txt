@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\classes & objects\bin\Debug\net8.0\classes & objects.exe
+C:\Users\dabba\source\repos\classes & objects\bin\Debug\net8.0\classes & objects.deps.json
+C:\Users\dabba\source\repos\classes & objects\bin\Debug\net8.0\classes & objects.runtimeconfig.json
+C:\Users\dabba\source\repos\classes & objects\bin\Debug\net8.0\classes & objects.dll
+C:\Users\dabba\source\repos\classes & objects\bin\Debug\net8.0\classes & objects.pdb
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.AssemblyInfo.cs
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.dll
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\refint\classes & objects.dll
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.pdb
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\classes & objects.genruntimeconfig.cache
+C:\Users\dabba\source\repos\classes & objects\obj\Debug\net8.0\ref\classes & objects.dll

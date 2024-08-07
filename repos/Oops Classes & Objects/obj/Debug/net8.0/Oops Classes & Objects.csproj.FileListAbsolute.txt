@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\Oops Classes & Objects\bin\Debug\net8.0\Oops Classes & Objects.exe
+C:\Users\dabba\source\repos\Oops Classes & Objects\bin\Debug\net8.0\Oops Classes & Objects.deps.json
+C:\Users\dabba\source\repos\Oops Classes & Objects\bin\Debug\net8.0\Oops Classes & Objects.runtimeconfig.json
+C:\Users\dabba\source\repos\Oops Classes & Objects\bin\Debug\net8.0\Oops Classes & Objects.dll
+C:\Users\dabba\source\repos\Oops Classes & Objects\bin\Debug\net8.0\Oops Classes & Objects.pdb
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.AssemblyInfo.cs
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.dll
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\refint\Oops Classes & Objects.dll
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.pdb
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\Oops Classes & Objects.genruntimeconfig.cache
+C:\Users\dabba\source\repos\Oops Classes & Objects\obj\Debug\net8.0\ref\Oops Classes & Objects.dll
