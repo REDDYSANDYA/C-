@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\Abstaction\bin\Debug\net8.0\Abstaction.exe
+C:\Users\dabba\source\repos\Abstaction\bin\Debug\net8.0\Abstaction.deps.json
+C:\Users\dabba\source\repos\Abstaction\bin\Debug\net8.0\Abstaction.runtimeconfig.json
+C:\Users\dabba\source\repos\Abstaction\bin\Debug\net8.0\Abstaction.dll
+C:\Users\dabba\source\repos\Abstaction\bin\Debug\net8.0\Abstaction.pdb
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.AssemblyInfo.cs
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.dll
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\refint\Abstaction.dll
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.pdb
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\Abstaction.genruntimeconfig.cache
+C:\Users\dabba\source\repos\Abstaction\obj\Debug\net8.0\ref\Abstaction.dll
