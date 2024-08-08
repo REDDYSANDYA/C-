@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\Properties\bin\Debug\net8.0\Properties.exe
+C:\Users\dabba\source\repos\Properties\bin\Debug\net8.0\Properties.deps.json
+C:\Users\dabba\source\repos\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+C:\Users\dabba\source\repos\Properties\bin\Debug\net8.0\Properties.dll
+C:\Users\dabba\source\repos\Properties\bin\Debug\net8.0\Properties.pdb
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.dll
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\refint\Properties.dll
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.pdb
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+C:\Users\dabba\source\repos\Properties\obj\Debug\net8.0\ref\Properties.dll
