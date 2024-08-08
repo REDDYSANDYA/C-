@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\Access Modifiers\bin\Debug\net8.0\Access Modifiers.exe
+C:\Users\dabba\source\repos\Access Modifiers\bin\Debug\net8.0\Access Modifiers.deps.json
+C:\Users\dabba\source\repos\Access Modifiers\bin\Debug\net8.0\Access Modifiers.runtimeconfig.json
+C:\Users\dabba\source\repos\Access Modifiers\bin\Debug\net8.0\Access Modifiers.dll
+C:\Users\dabba\source\repos\Access Modifiers\bin\Debug\net8.0\Access Modifiers.pdb
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.AssemblyInfo.cs
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.dll
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\refint\Access Modifiers.dll
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.pdb
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\Access Modifiers.genruntimeconfig.cache
+C:\Users\dabba\source\repos\Access Modifiers\obj\Debug\net8.0\ref\Access Modifiers.dll
