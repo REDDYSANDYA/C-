@@ -1,0 +1,14 @@
+C:\Users\dabba\source\repos\FilesConcept\bin\Debug\net8.0\FilesConcept.exe
+C:\Users\dabba\source\repos\FilesConcept\bin\Debug\net8.0\FilesConcept.deps.json
+C:\Users\dabba\source\repos\FilesConcept\bin\Debug\net8.0\FilesConcept.runtimeconfig.json
+C:\Users\dabba\source\repos\FilesConcept\bin\Debug\net8.0\FilesConcept.dll
+C:\Users\dabba\source\repos\FilesConcept\bin\Debug\net8.0\FilesConcept.pdb
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.AssemblyInfoInputs.cache
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.AssemblyInfo.cs
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.csproj.CoreCompileInputs.cache
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.dll
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\refint\FilesConcept.dll
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.pdb
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\FilesConcept.genruntimeconfig.cache
+C:\Users\dabba\source\repos\FilesConcept\obj\Debug\net8.0\ref\FilesConcept.dll
